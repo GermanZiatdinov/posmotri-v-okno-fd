@@ -307,7 +307,9 @@ ol {
   white-space: nowrap;
   display: none;
 } 
-
+.content__card-link:hover .content__video-card-description-container {
+  text-decoration: underline #FFFFFF;
+}
 .content__card-link:active .content__video-card-description-container {
     background-color: #545050;
     color: #FFFFFF;
@@ -318,6 +320,3 @@ ol {
   color: #FFFFFF;
 }
 
-.content__card-link:hover .content__video-card-description-container {
-    text-decoration: underline #FFFFFF;
-}
