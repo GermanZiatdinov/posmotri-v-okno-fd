@@ -282,7 +282,12 @@ ol {
   position: relative;
 }
 
-
+.result {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: flex-end;
+}
 
 .result__video-container video {
   width: 100%;
