@@ -177,6 +177,7 @@ ol {
   border-top: 1px solid #FFFFFF;
   appearance: none;
   width: 225px;
+  min-height: 27px;
   color: #fff;
   padding-top: 3px; 
   padding-bottom: 3px; 
